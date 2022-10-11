@@ -1,7 +1,7 @@
 ## PyCircularStats: Circular Statistics in Python
 
 <p align="center">
-<img src="https://github.com/mhaut/pycircularstats/blob/master/images/pycircstats.png" width="400">
+<img src="https://github.com/mhaut/PyCircularStats/blob/main/images/pycircstats.png?raw=true" width="600">
 </p>
 
 ### Example of use
